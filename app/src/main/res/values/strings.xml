@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Golf</string>
+
+
+    <string name="app_common_percentage">%</string>
+
+    <string name="app_main_draw">DRAW</string>
+    <string name="app_main_fade">FADE</string>
+    <string name="app_main_layup">LAYUP</string>
+    <string name="app_main_punch">PUNCH</string>
+    <string name="app_main_chip">CHIP</string>
+    <string name="app_main_pitch">PITCH</string>
+    <string name="app_main_flop">FLOP</string>
+
+
+    <string name="strDataDateDefault">2023.11.14</string>
+    <string name="app_data_download">다운 가능</string>
+    <string name="app_data_downloaded">다운 완료</string>
+    <string name="app_data_download_button">다운</string>
+    <string name="app_data_title">Swing Data List</string>
+    <string name="app_data_type_default">PUNCH</string>
+</resources>
